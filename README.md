@@ -22,10 +22,3 @@ A simple Python calculator application that performs basic arithmetic operations
 * Conditional Statements
 * User Input
 * Error Handling
-
-## Project Structure
-* python-calculator/
-* |
-* |---calculator.py
-* |---README.md
-* |___ .gitignore
