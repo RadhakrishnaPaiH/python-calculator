@@ -1,29 +1,29 @@
 # Python-calculator
 A simple Python calculator application that performs basic arithmetic operations using menu-driven interface.
 
-# Features
+## Features
 
-*Addition
-*Subtraction
-*Multiplication
-*Division
-*Power
-*Divison by Zero Handling
-*Calculation possible until exit selected
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Power
+* Divison by Zero Handling
+* Calculation possible until exit selected
 
-# Technologies Used
+## Technologies Used
 
-*Python 3
+* Python 3
 
-# Concepts Used
+## Concepts Used
 
-*Functions
-*Loops
-*Conditional Statements
-*User Input
-*Error Handling
+* Functions
+* Loops
+* Conditional Statements
+* User Input
+* Error Handling
 
-# Project Structure
+## Project Structure
 python-calculator/
 |
 |---calculator.py
