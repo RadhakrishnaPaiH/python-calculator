@@ -24,8 +24,8 @@ A simple Python calculator application that performs basic arithmetic operations
 * Error Handling
 
 ## Project Structure
-python-calculator/
-|
-|---calculator.py
-|---README.md
-|___ .gitignore
+* python-calculator/
+* |
+* |---calculator.py
+* |---README.md
+* |___ .gitignore
